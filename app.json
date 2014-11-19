@@ -1,7 +1,7 @@
 {
     "name": "mirror_bot",
     "description": "translating bot makes you global person",
-    "repository": "",
+    "repository": "https://github.com/mazamachi/twitrans_bot",
     "env": {
         "LANGUAGE_FROM": "ja",
         "LANGUAGE_TO": "en",
@@ -13,5 +13,5 @@
         "BOT_CONSUMER_SECRET": "",
         "BOT_ACCESS_TOKEN": "",
         "BOT_ACCESS_TOKEN_SECRET": "",
-    },
+    }
 }
